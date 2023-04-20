@@ -1,5 +1,5 @@
 # POO
-AC1 Programação Orientada Objeto - Facens 
+Atividades Programação Orientada Objeto - Facens 
 
 ## Informações
 - Nome: André Henrique da Silva Meliunas
