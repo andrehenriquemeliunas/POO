@@ -1,4 +1,4 @@
-package lista2.exercicio3Lista2;
+package AC1.lista2.exercicio4Lista2;
 
 public class vendedor {
     private int codigo;

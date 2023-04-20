@@ -1,4 +1,4 @@
-package lista2.exercicio1Lista2;
+package AC1.lista2.exercicio1Lista2;
 
 public class calculadora {
 

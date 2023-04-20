@@ -1,4 +1,4 @@
-package lista1.exercicio2Lista1;
+package AC1.lista1.exercicio2Lista1;
 
 public class aluno {
     private String ra;
